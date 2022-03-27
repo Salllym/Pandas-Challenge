@@ -1,7 +1,7 @@
 # Pandas-Challenge
 
 Pandas is a powerful data analysis Python library and I've used the Pandas Framework to analyse datasets on schools and students.
-In this assignment, I have used the Pandas library to make strategic decisions regarding future school budgets and priorities along with analyzing the district-wide standardized test results, specifically reading and math scores of students to showcase obvious trends in school performance.
+In this assignment, I've used the Pandas library to make strategic decisions regarding future school budgets and priorities along with analyzing the district-wide standardized test results, specifically reading and math scores of students to showcase obvious trends in school performance.
 
 - Pandas and Jupyter notebook was used to write the code and create dataframes.
 
@@ -91,3 +91,15 @@ A table that breaks down school performance based on school size (small, medium,
 ### Scores by School Type
 
 A table that breaks down school performance based on type of school (district or charter).
+
+### Analysis
+
+* The dataset has a total of 15 schools and 39,170 students. The percent of students passing reading (85.80%) and their average reading score of 91.87 is higher than the percent of students passing math (74.98%) and their average math score of 78.98, which reveals that students are doing better in reading than math.
+
+* The school summary shows that from the 15 schools, 7 district schools have more students than the 8 charter schools which can mean that the district schools’ geographical coverage can be a reason for their larger student population/ size.
+
+* Based on the performance of spending ranges per student, students have a higher overall passing rate of 90.37 percent in the lower spending ranges (<$585).
+
+* Small and medium sized schools performed better than large sized schools on passing math. There's 93.55 percent in small sized schools and 93.59 percent in medium sized schools passing math while there's only 69.96 percent in large sized schools passing math.
+
+* The data shows that the Charter Schools are scoring better than the District Schools across all metrics (average, percent, and overall). Pena High School has the average math score (83.839917) with (94.59%) passing math and average reading score (84.044699) with (95.94%) passing reading while Huang High School has the average math score (76.629414) with (65.68%) passing math and average reading score (81.182722) with (81.31%) passing reading. Since Pena High School is a charter school with better scores and smaller student population while Huang High School is a district school with lower scores and larger student population, this can mean that schools with larger student population/ size negatively influences student achievements.
