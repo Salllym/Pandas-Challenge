@@ -20,6 +20,41 @@ A high-level snapshot, in a DataFrame, of the district's key metrics, including 
 * % passing reading (the percentage of students who passed reading)
 * % overall passing (the percentage of students who passed math AND reading)
 
+
+
+<div>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Total Schools</th>
+      <th>Total Students</th>
+      <th>Total Budget</th>
+      <th>Average Math Score</th>
+      <th>Average Reading Score</th>
+      <th>% Passing Math</th>
+      <th>% Passing Reading</th>
+      <th>% Overall Passing Rate</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>15</td>
+      <td>39170</td>
+      <td>$24,649,428.00</td>
+      <td>78.985371</td>
+      <td>81.87784</td>
+      <td>74.980853</td>
+      <td>85.805463</td>
+      <td>80.393158</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
+
 ### School Summary
 
 A DataFrame that summarizes key metrics about each school, including the following:
