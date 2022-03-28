@@ -87,7 +87,7 @@ A DataFrame that summarizes key metrics about each school, including the followi
       <th>% Passing Math</th>
       <th>% Passing Reading</th>
       <th>% Overall Passing</th>
-    </tr>
+    
   </thead>
   <tbody>
     <tr>
