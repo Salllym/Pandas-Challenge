@@ -55,6 +55,7 @@ A high-level snapshot, in a DataFrame, of the district's key metrics, including 
 
 
 
+
 ### School Summary
 
 A DataFrame that summarizes key metrics about each school, including the following:
@@ -153,6 +154,7 @@ A DataFrame that summarizes key metrics about each school, including the followi
   </tbody>
 </table>
 </div>
+
 
 
 
@@ -256,6 +258,7 @@ A DataFrame that highlights the top 5 performing schools based on % Overall Pass
 
 
 
+
 ### Lowest-Performing Schools (by % Overall Passing)
 
 A DataFrame that highlights the bottom 5 performing schools based on % Overall Passing. Include the following metrics:
@@ -356,6 +359,7 @@ A DataFrame that highlights the bottom 5 performing schools based on % Overall P
 
 
 
+
 ### Math Scores by Grade
 
 A DataFrame that lists the average math score for students of each grade level (9th, 10th, 11th, 12th) at each school.
@@ -415,6 +419,7 @@ A DataFrame that lists the average math score for students of each grade level (
 
 
 
+
 ### Reading Scores by Grade
 
 A DataFrame that lists the average reading score for students of each grade level (9th, 10th, 11th, 12th) at each school.
@@ -471,6 +476,7 @@ A DataFrame that lists the average reading score for students of each grade leve
   </tbody>
 </table>
 </div>
+
 
 
 
@@ -545,6 +551,7 @@ A table that breaks down school performance based on average spending ranges (pe
 
 
 
+
 ### Scores by School Size
 
 A table that breaks down school performance based on school size (small, medium, or large).
@@ -602,6 +609,7 @@ A table that breaks down school performance based on school size (small, medium,
 
 
 
+
 ### Scores by School Type
 
 A table that breaks down school performance based on type of school (district or charter).
@@ -648,6 +656,7 @@ A table that breaks down school performance based on type of school (district or
   </tbody>
 </table>
 </div>
+
 
 
 
