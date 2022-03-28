@@ -349,7 +349,6 @@ A DataFrame that highlights the bottom 5 performing schools based on % Overall P
       <td>66.057551</td>
       <td>81.222432</td>
       <td>53.539172</td>
-      
     </tr>
   </tbody>
 </table>
