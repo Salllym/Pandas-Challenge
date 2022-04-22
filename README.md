@@ -1,7 +1,7 @@
-# Pandas-Challenge
+# PyCitySchool
 
-Pandas is a powerful data analysis Python library and I've used the Pandas Framework to analyse datasets on schools and students.
-In this assignment, I've used the Pandas library to make strategic decisions regarding future school budgets and priorities along with analyzing the district-wide standardized test results, specifically reading and math scores of students to showcase obvious trends in school performance.
+Pandas is a powerful data analysis Python library and I've used the Pandas Framework to analyze datasets on schools and students.
+I've also used the Pandas library to make strategic decisions regarding future school budgets and priorities along with analyzing the district-wide standardized test results, specifically reading and math scores of students to showcase obvious trends in school performance.
 
 - Pandas and Jupyter notebook was used to write the code and create dataframes.
 
